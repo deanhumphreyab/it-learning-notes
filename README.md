@@ -1,2 +1,8 @@
-# it-learning-notes
-Notes and concepts from IT support and networking study, including TCP/IP, DNS, and troubleshooting fundamentals.
+# IT Learning Notes
+
+This repository contains notes and concepts I am learning while studying IT support and networking fundamentals.
+
+Topics include:
+- TCP/IP
+- DNS
+- Troubleshooting basics
